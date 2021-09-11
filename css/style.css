@@ -204,6 +204,16 @@ html {
     font-size: 1.3rem;
     font-family: 'Bree Serif', serif;
 }
+#contact-box form #submit{
+    width: 40%;
+    margin: 15px 200px;
+    background-color: rgb(69, 152, 248);
+    font-family: 'Bree Serif', serif;
+}
+#contact-box form #submit:hover{
+   background-color: rgb(0, 115, 247);
+   color: white;
+}
 
 footer {
     background: black;
